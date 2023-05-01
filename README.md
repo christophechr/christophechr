@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+    Hey there
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-<!--
-**christophechr/christophechr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻: About Me :
+    - Languages : French, English, Cambodian
 
-Here are some ideas to get you started:
+    - College : 2nd year of Bachelor's degree in Computer Science at Epitech Toulouse
+    
+    - Languages : C, C++, Python, Bash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Hobbies : Video games, Music, Movies, Series, Sports, Cooking.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophechr&langs_count=8&theme=omni&layout=compact" />
+</a>
