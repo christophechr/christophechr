@@ -6,9 +6,9 @@
 ### 👨‍💻: About Me :
     - Languages : French, English, Cambodian
 
-    - College : 2nd year of Bachelor's degree in Computer Science at Epitech Toulouse
+    - College : 3rd year of Bachelor's degree in Computer Science at Epitech Toulouse
     
-    - Languages : C, C++, Python, Bash.
+    - Languages : C, C++, Python, Shell, PowerBI, PowerQuery.
 
     - Hobbies : Video games, Music, Movies, Series, Sports, Cooking.
 
