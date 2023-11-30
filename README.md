@@ -8,7 +8,7 @@
 
     - College : 3rd year of Bachelor's degree in Computer Science at Epitech Toulouse
     
-    - Languages : C, C++, Python, Shell, PowerBI, PowerQuery.
+    - Languages : C, C++, Python, Shell, PowerBI, Excel, ReactJS, Hono.
 
     - Hobbies : Video games, Music, Movies, Series, Sports, Cooking.
 
