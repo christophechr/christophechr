@@ -3,12 +3,12 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-### 👨‍💻: About Me :
-    - Languages : French, English, Cambodian
+### About Me :
+    - Languages : French, English, Cambodian, Spannish
 
-    - College : 3rd year of Bachelor's degree in Computer Science at Epitech Toulouse
+    - College : 1st year of Master's degree in Computer Science at Epitech Paris, Exchange Student in Graduate degree at National Taipei University
     
-    - Languages : C, C++, Python, Shell, PowerBI, Excel, ReactJS, Hono.
+    - Languages : C, C++, Python, Shell, PowerBI, Excel, Hono, Fastify.
 
     - Hobbies : Video games, Music, Movies, Series, Sports, Cooking.
 
