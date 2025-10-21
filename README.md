@@ -4,13 +4,14 @@
 </h1>
 
 ### About Me :
-    - Languages : French, English, Cambodian, Spannish
+    - Languages : French (native), Cambodian (native), English (almost fluent), Spannish (intermediate)
 
-    - College : 1st year of Master's degree in Computer Science at Epitech Paris, Exchange Student in Graduate degree at National Taipei University
+    - College : 2nd year of Master's degree in software engineering, specialized in project management, at Epitech Paris
+                Previously an exchange student in business and finance at National Taipei University (NTPU)
     
-    - Languages : C, C++, Python, Shell, PowerBI, Excel, Hono, Fastify.
+    - Languages : Python, PowerBI, Excel, Fastify, Next.JS, Nest.JS.
 
-    - Hobbies : Video games, Music, Movies, Series, Sports, Cooking.
+    - Hobbies : Supporting (sadly) Top Esport, Red Velvel, C-Drama, Football, cooking the best loc lac.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophechr&langs_count=8&theme=omni&layout=compact" />
